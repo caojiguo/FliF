@@ -1,4 +1,4 @@
-# The R codes for simulation studies and real data analysis in the manuscript entitled "Multi-Resolution Functional Linear Models Latent Factors". 
+# The R codes for simulation studies and real data analysis in the manuscript entitled "Multi-Resolution Functional Linear Models with Latent Factors". 
 
 ###########################################################
 
